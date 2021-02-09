@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Animation>
+  <Name BGM="背景音乐名称" Tag="动画标签">动画名称</Name>
+  <Name BGM="初音ミクの激唱" Tag="1">初音ミクの激唱_vmd</Name>
+  <Name BGM="花泽香菜 - 恋爱サーキュレーション" Tag="2">楒垽僒乕僉儏儗乕僔儑儞 short Lat幃_vmd</Name>
+  <Name BGM="千本樱" Tag="3">千本桜（紫音リア様）_vmd</Name>
+  <Name BGM="白金ディスコ-阿良良木月火CV井口裕香" Tag="4">白金ディスコ_vmd</Name>
+  <Name BGM="威風堂々" Tag="5">威風堂々ダンスのみリン_vmd</Name>
+</Animation>
