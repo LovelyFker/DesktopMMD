@@ -62,3 +62,6 @@ crashlytics-build.properties
 /Assets/_ExtraPackage/Autumn
 /Assets/_Model
 /AssetBundles
+
+#容量过大，忽略MMD插件(版本MMD4Mecanim_Beta_20200105)
+/Assets/MMD4Mecanim
