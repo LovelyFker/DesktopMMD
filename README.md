@@ -1,6 +1,11 @@
 # DesktopMMD
  MMD桌面精灵
 
+## UnityEditor Version
+```
+2019.4.17f1c1
+```
+
 ## 所需包
 
 - 1.Autumnal Nature Pack.unitypackage
